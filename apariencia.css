@@ -1,0 +1,17 @@
+.login-container {
+    width: 300px;
+    height: 200px;
+    border: 10px ridge black;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+button {
+    background-color: blue;
+}
